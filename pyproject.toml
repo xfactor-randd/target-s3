@@ -17,10 +17,10 @@ smart-open = {extras = ["s3"], version = "^6.2.0"}
 pyarrow = "^10.0.0"
 pandas = "^1.5.1"
 numpy = "^1.23.4"
-fsspec = "^2022.10.0"
-s3fs = "^2022.10.0"
+fsspec = "^2024.9.0"
+s3fs = "^2024.9.0"
 pymongo = "^4.3.3"
-boto3 = "~1.24"
+boto3 = "~1.35"
 
 [tool.poetry.dev-dependencies]
 black = "^23.3.0"
